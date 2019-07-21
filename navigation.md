@@ -1,0 +1,5 @@
+* [Portal](https://web.archive.org/web/http://www.mundorpgmaker.com.br/index.php?app=core&module=global&section=navigation&inapp=ccs)
+* [Fórum](https://web.archive.org/web/http://www.mundorpgmaker.com.br/index.php?app=core&module=global&section=navigation&inapp=forums)
+* [Membros](https://web.archive.org/web/http://www.mundorpgmaker.com.br/index.php?app=core&module=global&section=navigation&inapp=members)
+* [Downloads](https://web.archive.org/web/http://www.mundorpgmaker.com.br/index.php?app=core&module=global&section=navigation&inapp=downloads)
+* [Geral](https://web.archive.org/web/http://www.mundorpgmaker.com.br/index.php?app=core&module=global&section=navigation&inapp=core)
